@@ -1,0 +1,201 @@
+Respondent_ID,Travel_Date,Age,Gender,Transportation_Mode,Travel_Distance_km,Departure_Time,Travel_Time_min,Traffic_Level,Travel_Frequency,Purpose_of_Travel,Satisfaction_Level
+R001,2026-01-17,20,Female,Tricycle,1.8,16:10,14,High,3-5 times a week,Personal Errand,Neutral
+R002,2026-02-10,25,Female,Private Car,7.3,09:25,35,High,1-2 times a week,Shopping,Satisfied
+R003,2026-03-26,19,Female,UV Express,7.2,07:20,36,Moderate,Occasionally,Shopping,Satisfied
+R004,2026-03-27,61,Male,Motorcycle,2.9,07:40,13,Moderate,1-2 times a week,School,Neutral
+R005,2026-02-05,58,Male,Tricycle,5.9,07:45,24,Moderate,1-2 times a week,Work,Satisfied
+R006,2026-03-26,41,Female,Jeepney,1.1,16:35,11,Moderate,3-5 times a week,School,Satisfied
+R007,2026-06-03,46,Male,Tricycle,2.1,09:55,13,Moderate,3-5 times a week,School,Satisfied
+R008,2026-01-31,41,Female,Private Car,4.2,17:15,24,High,Daily,Work,Neutral
+R009,2026-02-24,62,Male,Private Car,5.3,08:10,13,Low,Occasionally,Work,Neutral
+R010,2026-05-10,40,Female,Jeepney,2.6,17:15,12,Low,3-5 times a week,Leisure,Satisfied
+R011,2026-05-17,52,Male,Motorcycle,3.7,18:00,19,Moderate,3-5 times a week,School,Satisfied
+R012,2026-01-27,53,Male,Jeepney,14.0,08:35,48,Low,3-5 times a week,Work,Satisfied
+R013,2026-05-21,46,Female,Jeepney,9.8,10:25,49,Moderate,3-5 times a week,Leisure,Satisfied
+R014,2026-01-04,56,Male,Tricycle,11.2,09:15,34,Low,Daily,Work,Neutral
+R015,2026-01-20,21,Male,Private Car,3.8,17:15,11,Low,Daily,Shopping,Neutral
+R016,2026-04-03,39,Female,Tricycle,5.4,08:35,19,Low,3-5 times a week,Leisure,Dissatisfied
+R017,2026-04-04,23,Female,Private Car,12.8,18:05,49,Moderate,Daily,Personal Errand,Neutral
+R018,2026-05-30,34,Male,Walking,4.9,07:00,80,Moderate,Daily,School,Neutral
+R019,2026-02-11,32,Female,Motorcycle,6.0,05:10,16,Low,1-2 times a week,School,Satisfied
+R020,2026-01-24,36,Male,Bus,3.8,17:45,21,Moderate,Occasionally,Shopping,Satisfied
+R021,2026-01-20,64,Female,Jeepney,6.0,15:50,46,High,Occasionally,Work,Dissatisfied
+R022,2026-05-30,37,Male,Bus,3.3,06:15,14,Moderate,1-2 times a week,School,Satisfied
+R023,2026-06-06,30,Male,Tricycle,1.5,16:55,7,Moderate,1-2 times a week,Work,Satisfied
+R024,2026-02-25,60,Male,Motorcycle,4.7,17:15,12,Low,Daily,School,Satisfied
+R025,2026-04-17,43,Male,Jeepney,10.9,06:25,53,Moderate,Occasionally,School,Neutral
+R026,2026-04-13,42,Male,Jeepney,7.3,07:35,38,Moderate,Daily,School,Neutral
+R027,2026-06-12,21,Male,UV Express,2.2,18:45,14,High,1-2 times a week,School,Satisfied
+R028,2026-03-11,57,Female,Motorcycle,6.4,10:45,12,Low,Daily,Personal Errand,Satisfied
+R029,2026-05-04,32,Male,Tricycle,4.3,08:10,32,High,Daily,School,Neutral
+R030,2026-04-24,64,Female,Private Car,3.2,12:45,14,Low,1-2 times a week,Shopping,Satisfied
+R031,2026-06-18,63,Female,Jeepney,5.3,06:30,40,High,1-2 times a week,Shopping,Dissatisfied
+R032,2026-04-21,62,Female,Jeepney,3.3,06:30,12,Moderate,3-5 times a week,Work,Neutral
+R033,2026-01-22,62,Female,Motorcycle,1.3,19:50,10,Moderate,1-2 times a week,Work,Neutral
+R034,2026-03-07,52,Male,UV Express,5.0,08:45,20,Low,3-5 times a week,Shopping,Satisfied
+R035,2026-03-28,22,Female,Motorcycle,5.6,17:35,22,Moderate,Daily,Personal Errand,Neutral
+R036,2026-01-03,59,Female,Jeepney,12.9,16:30,57,Moderate,3-5 times a week,Work,Satisfied
+R037,2026-06-08,41,Female,Bus,3.9,21:00,16,Low,Daily,School,Neutral
+R038,2026-02-05,59,Male,Jeepney,4.1,17:45,17,Low,Daily,School,Satisfied
+R039,2026-05-25,65,Female,Jeepney,4.5,06:40,28,Moderate,Daily,Personal Errand,Satisfied
+R040,2026-06-03,21,Male,Motorcycle,3.5,15:05,10,Low,1-2 times a week,Shopping,Dissatisfied
+R041,2026-06-09,53,Female,Jeepney,0.9,06:10,5,Low,Occasionally,Work,Satisfied
+R042,2026-06-20,43,Female,Private Car,4.3,07:10,17,Moderate,Occasionally,Work,Satisfied
+R043,2026-01-25,39,Female,Tricycle,6.3,07:55,31,Moderate,3-5 times a week,Work,Satisfied
+R044,2026-01-07,23,Male,Jeepney,4.5,08:55,21,Moderate,3-5 times a week,Work,Neutral
+R045,2026-04-09,43,Female,Private Car,2.1,17:20,11,Moderate,1-2 times a week,School,Neutral
+R046,2026-02-26,22,Female,Motorcycle,2.8,17:10,12,Low,1-2 times a week,Work,Satisfied
+R047,2026-05-14,19,Male,Tricycle,4.3,08:00,31,High,Daily,School,Neutral
+R048,2026-05-19,49,Male,Tricycle,3.6,21:25,18,Moderate,3-5 times a week,Leisure,Satisfied
+R049,2026-05-31,49,Male,Motorcycle,15.3,07:25,63,High,Daily,School,Neutral
+R050,2026-03-26,58,Male,Jeepney,4.2,09:25,31,High,Daily,Shopping,Satisfied
+R051,2026-02-13,25,Male,Motorcycle,2.9,06:15,11,Moderate,1-2 times a week,Work,Satisfied
+R052,2026-03-28,52,Male,Motorcycle,6.9,18:15,22,Moderate,3-5 times a week,School,Neutral
+R053,2026-03-13,35,Male,Motorcycle,7.1,06:00,21,Low,Daily,Work,Satisfied
+R054,2026-01-02,46,Female,Tricycle,6.7,14:30,27,Moderate,3-5 times a week,School,Satisfied
+R055,2026-05-21,65,Female,UV Express,2.3,19:35,11,High,3-5 times a week,Shopping,Neutral
+R056,2026-05-15,36,Female,Bicycle,4.0,17:55,23,Low,3-5 times a week,School,Dissatisfied
+R057,2026-01-16,58,Male,Walking,3.4,17:35,80,High,Daily,Work,Neutral
+R058,2026-05-20,63,Male,Jeepney,2.9,16:35,22,High,Daily,Work,Neutral
+R059,2026-01-06,27,Female,Jeepney,3.7,16:30,18,Moderate,1-2 times a week,Work,Satisfied
+R060,2026-02-19,54,Female,Tricycle,4.9,09:05,20,Low,1-2 times a week,Work,Neutral
+R061,2026-04-14,42,Female,Tricycle,1.1,07:05,15,High,Daily,Work,Satisfied
+R062,2026-04-25,20,Male,Jeepney,12.2,10:55,77,High,3-5 times a week,School,Neutral
+R063,2026-04-06,33,Female,Jeepney,0.5,18:15,4,Moderate,Daily,School,Satisfied
+R064,2026-05-23,24,Male,UV Express,4.9,13:15,25,Moderate,3-5 times a week,School,Neutral
+R065,2026-01-19,49,Female,Bus,3.9,13:15,19,Moderate,Daily,School,Dissatisfied
+R066,2026-03-23,52,Male,Jeepney,4.8,06:55,17,Low,Daily,School,Satisfied
+R067,2026-03-16,60,Female,Jeepney,5.5,09:10,37,High,3-5 times a week,School,Neutral
+R068,2026-02-16,17,Male,Tricycle,11.6,18:30,48,Moderate,Daily,Shopping,Satisfied
+R069,2026-01-28,28,Female,Jeepney,8.2,16:10,54,High,Daily,Work,Satisfied
+R070,2026-04-17,23,Male,Motorcycle,0.9,13:10,13,High,Daily,School,Dissatisfied
+R071,2026-04-19,65,Female,Jeepney,16.6,10:55,106,High,1-2 times a week,Personal Errand,Dissatisfied
+R072,2026-01-06,30,Male,Tricycle,1.0,06:50,3,Low,1-2 times a week,School,Neutral
+R073,2026-01-26,57,Male,UV Express,2.2,07:45,8,Moderate,Daily,Work,Satisfied
+R074,2026-06-08,43,Female,Motorcycle,4.8,18:05,15,Moderate,3-5 times a week,School,Satisfied
+R075,2026-02-11,33,Female,Bus,10.9,14:05,45,Moderate,Daily,School,Neutral
+R076,2026-03-17,42,Female,Motorcycle,6.5,21:05,28,High,Daily,Shopping,Satisfied
+R077,2026-06-23,54,Female,Tricycle,3.9,07:20,26,High,Daily,Work,Neutral
+R078,2026-05-14,59,Female,UV Express,14.7,11:05,71,High,1-2 times a week,School,Satisfied
+R079,2026-03-09,16,Male,Private Car,16.3,20:55,58,Moderate,3-5 times a week,School,Satisfied
+R080,2026-02-05,35,Male,Motorcycle,5.7,10:00,16,Low,3-5 times a week,Personal Errand,Satisfied
+R081,2026-06-08,17,Female,Jeepney,3.2,17:35,13,Low,3-5 times a week,School,Satisfied
+R082,2026-03-31,22,Male,Motorcycle,0.8,16:40,6,Moderate,Occasionally,Leisure,Neutral
+R083,2026-01-25,21,Female,Bicycle,12.4,06:20,61,Low,3-5 times a week,Leisure,Satisfied
+R084,2026-04-16,42,Male,Jeepney,2.8,18:20,18,Moderate,1-2 times a week,School,Neutral
+R085,2026-01-19,18,Male,Walking,5.9,18:40,76,Low,3-5 times a week,School,Satisfied
+R086,2026-04-06,59,Female,UV Express,13.3,08:30,36,Low,Occasionally,Personal Errand,Neutral
+R087,2026-03-20,32,Female,Motorcycle,5.9,12:45,29,High,Occasionally,Work,Satisfied
+R088,2026-01-22,34,Female,Jeepney,6.5,06:20,37,Moderate,Daily,School,Satisfied
+R089,2026-03-26,49,Male,Bicycle,7.7,17:20,54,Moderate,Daily,Shopping,Neutral
+R090,2026-06-16,48,Female,Bus,2.4,07:10,7,Low,Daily,Shopping,Satisfied
+R091,2026-03-12,35,Male,Jeepney,8.5,15:25,58,High,3-5 times a week,School,Neutral
+R092,2026-05-03,19,Male,Walking,7.3,07:05,123,Moderate,1-2 times a week,School,Dissatisfied
+R093,2026-03-07,38,Female,Private Car,12.9,19:40,48,Moderate,3-5 times a week,School,Dissatisfied
+R094,2026-03-21,32,Male,Private Car,5.6,09:25,21,Moderate,3-5 times a week,School,Satisfied
+R095,2026-02-14,60,Male,Jeepney,2.4,18:45,14,Moderate,Daily,Shopping,Neutral
+R096,2026-06-21,61,Female,Jeepney,0.6,16:45,10,Moderate,Occasionally,Work,Satisfied
+R097,2026-04-20,38,Female,Jeepney,3.6,18:55,23,High,3-5 times a week,Work,Neutral
+R098,2026-06-16,38,Female,Tricycle,2.5,18:55,17,High,1-2 times a week,School,Neutral
+R099,2026-02-16,47,Male,Jeepney,7.6,08:15,28,Low,1-2 times a week,Work,Satisfied
+R100,2026-01-25,34,Male,Tricycle,4.8,17:10,19,Moderate,Daily,Shopping,Satisfied
+R101,2026-01-13,17,Male,Motorcycle,5.0,21:35,18,Moderate,3-5 times a week,Personal Errand,Satisfied
+R102,2026-04-01,51,Female,Jeepney,9.5,13:10,65,High,Daily,Work,Dissatisfied
+R103,2026-01-10,21,Female,Tricycle,8.0,09:10,43,High,1-2 times a week,Work,Neutral
+R104,2026-06-10,35,Male,Private Car,6.0,11:10,17,Low,3-5 times a week,Shopping,Satisfied
+R105,2026-01-07,41,Male,Jeepney,4.6,17:05,19,Low,1-2 times a week,Work,Neutral
+R106,2026-05-13,43,Female,Bus,5.9,09:30,28,Moderate,3-5 times a week,School,Satisfied
+R107,2026-01-16,36,Male,Jeepney,4.2,07:45,30,High,Occasionally,Shopping,Satisfied
+R108,2026-06-25,65,Female,Tricycle,0.5,18:55,5,Moderate,Daily,Work,Neutral
+R109,2026-01-05,16,Female,Motorcycle,4.2,16:25,15,Moderate,Daily,Shopping,Neutral
+R110,2026-04-04,21,Female,Motorcycle,1.7,08:05,10,Moderate,Daily,Work,Satisfied
+R111,2026-03-26,45,Female,Private Car,10.8,18:05,36,Low,3-5 times a week,School,Satisfied
+R112,2026-03-18,31,Female,Jeepney,7.5,07:05,47,High,Daily,School,Satisfied
+R113,2026-06-09,42,Male,Jeepney,3.2,07:45,9,Low,3-5 times a week,Work,Satisfied
+R114,2026-06-29,25,Female,Bus,2.7,12:05,13,Moderate,3-5 times a week,Shopping,Neutral
+R115,2026-06-24,62,Male,Walking,6.0,11:15,101,Moderate,Daily,Work,Satisfied
+R116,2026-03-15,65,Male,UV Express,11.1,08:40,51,High,Daily,Work,Satisfied
+R117,2026-04-10,29,Male,Motorcycle,3.4,16:20,18,Moderate,Daily,Work,Neutral
+R118,2026-02-16,64,Male,Jeepney,2.8,17:30,18,Moderate,Daily,Work,Dissatisfied
+R119,2026-01-07,58,Male,UV Express,15.2,05:35,47,Low,1-2 times a week,Work,Satisfied
+R120,2026-06-08,26,Male,Jeepney,18.5,08:50,86,Moderate,1-2 times a week,Shopping,Satisfied
+R121,2026-02-03,26,Female,Walking,2.5,18:50,37,Moderate,1-2 times a week,Leisure,Satisfied
+R122,2026-03-08,28,Female,Bicycle,4.3,09:55,41,High,Daily,Work,Satisfied
+R123,2026-05-05,52,Female,Jeepney,3.0,10:25,13,Moderate,Daily,Work,Satisfied
+R124,2026-03-03,64,Female,Jeepney,2.2,07:25,15,Moderate,Occasionally,School,Satisfied
+R125,2026-03-19,45,Female,UV Express,7.6,09:05,47,High,Daily,Work,Dissatisfied
+R126,2026-05-31,43,Male,UV Express,7.2,19:45,22,Low,Occasionally,School,Satisfied
+R127,2026-02-25,51,Male,Tricycle,4.2,19:15,31,High,1-2 times a week,School,Dissatisfied
+R128,2026-01-23,43,Female,Walking,7.2,19:35,122,Moderate,Occasionally,Personal Errand,Neutral
+R129,2026-03-12,54,Male,Tricycle,12.4,08:10,68,High,Occasionally,Work,Dissatisfied
+R130,2026-02-09,20,Male,Jeepney,4.9,20:45,37,High,Daily,School,Satisfied
+R131,2026-04-07,62,Male,Jeepney,5.6,18:15,44,High,1-2 times a week,Work,Dissatisfied
+R132,2026-06-20,22,Male,Jeepney,5.7,09:35,31,Moderate,Daily,School,Neutral
+R133,2026-01-31,24,Female,Tricycle,4.6,17:50,13,Low,3-5 times a week,School,Satisfied
+R134,2026-03-17,62,Male,Bicycle,7.2,10:55,52,Moderate,Daily,Work,Dissatisfied
+R135,2026-05-28,16,Male,UV Express,5.2,06:45,22,Moderate,1-2 times a week,Work,Neutral
+R136,2026-03-08,31,Male,Private Car,7.7,19:40,25,Moderate,3-5 times a week,Work,Satisfied
+R137,2026-05-15,45,Female,Jeepney,4.9,15:05,16,Low,Daily,School,Satisfied
+R138,2026-05-08,35,Male,Motorcycle,2.9,17:10,13,Moderate,Daily,Personal Errand,Satisfied
+R139,2026-03-28,35,Male,Motorcycle,7.0,06:25,26,High,1-2 times a week,Shopping,Satisfied
+R140,2026-02-13,32,Male,Jeepney,5.4,09:40,29,Moderate,3-5 times a week,Work,Satisfied
+R141,2026-03-31,59,Male,Jeepney,4.4,19:20,22,High,Occasionally,Shopping,Dissatisfied
+R142,2026-03-27,41,Female,Motorcycle,8.5,05:30,30,Moderate,1-2 times a week,School,Satisfied
+R143,2026-06-07,51,Male,Bus,4.6,21:40,22,Moderate,3-5 times a week,Personal Errand,Dissatisfied
+R144,2026-02-05,37,Male,Motorcycle,3.1,07:10,8,Moderate,3-5 times a week,School,Satisfied
+R145,2026-01-26,52,Male,Bus,2.9,18:45,14,Moderate,Occasionally,School,Satisfied
+R146,2026-05-19,16,Male,Tricycle,5.5,17:35,21,Low,3-5 times a week,School,Dissatisfied
+R147,2026-01-17,60,Male,Jeepney,5.1,17:45,30,Moderate,Daily,Work,Satisfied
+R148,2026-06-26,37,Male,UV Express,7.7,16:05,45,High,1-2 times a week,Work,Dissatisfied
+R149,2026-03-25,64,Male,Motorcycle,8.0,07:20,32,High,Daily,School,Satisfied
+R150,2026-02-10,21,Male,Jeepney,1.0,09:55,9,Low,3-5 times a week,Leisure,Neutral
+R151,2026-02-10,24,Male,UV Express,7.3,18:00,27,Moderate,1-2 times a week,Personal Errand,Satisfied
+R152,2026-06-07,22,Female,Walking,4.8,09:00,100,High,Daily,Shopping,Neutral
+R153,2026-05-22,31,Female,Motorcycle,3.8,09:45,17,High,3-5 times a week,Work,Satisfied
+R154,2026-06-27,32,Female,Walking,2.2,18:05,43,Moderate,Daily,Shopping,Satisfied
+R155,2026-06-26,46,Female,Tricycle,6.2,08:35,33,High,3-5 times a week,Shopping,Neutral
+R156,2026-04-12,62,Female,Jeepney,12.3,16:15,58,Moderate,Daily,School,Satisfied
+R157,2026-06-05,36,Female,Jeepney,3.7,07:30,19,Moderate,Daily,Shopping,Satisfied
+R158,2026-05-14,36,Male,Walking,6.6,15:20,112,Moderate,Daily,Shopping,Dissatisfied
+R159,2026-06-25,57,Female,Tricycle,6.1,07:15,31,Moderate,Daily,Work,Satisfied
+R160,2026-01-24,25,Male,Jeepney,2.6,06:00,20,High,Occasionally,Leisure,Neutral
+R161,2026-03-26,37,Female,Private Car,4.9,08:10,19,Moderate,Daily,Work,Neutral
+R162,2026-05-18,50,Male,Private Car,3.8,06:50,14,Moderate,Daily,Personal Errand,Satisfied
+R163,2026-04-23,28,Male,Motorcycle,5.9,15:05,18,Moderate,Daily,Work,Satisfied
+R164,2026-05-14,18,Male,Jeepney,3.9,09:45,27,Moderate,3-5 times a week,School,Dissatisfied
+R165,2026-01-13,62,Male,Motorcycle,6.0,17:05,28,High,3-5 times a week,Work,Dissatisfied
+R166,2026-01-01,41,Male,Jeepney,6.8,06:35,44,High,3-5 times a week,School,Satisfied
+R167,2026-04-26,21,Female,Jeepney,4.1,08:20,24,Moderate,3-5 times a week,Work,Neutral
+R168,2026-02-15,40,Female,Bicycle,6.3,08:20,63,High,3-5 times a week,School,Dissatisfied
+R169,2026-05-30,52,Female,Walking,8.8,12:40,191,High,Occasionally,School,Dissatisfied
+R170,2026-04-01,64,Male,Tricycle,6.5,13:10,36,High,Daily,Work,Satisfied
+R171,2026-05-17,37,Male,UV Express,2.2,07:05,10,Moderate,3-5 times a week,Work,Satisfied
+R172,2026-06-02,50,Male,Jeepney,7.4,05:00,34,Moderate,Daily,Work,Neutral
+R173,2026-04-09,47,Female,Jeepney,6.6,18:20,32,Moderate,3-5 times a week,School,Dissatisfied
+R174,2026-02-10,59,Male,Tricycle,9.1,08:40,41,Moderate,3-5 times a week,Work,Neutral
+R175,2026-01-19,28,Female,Bus,3.0,16:00,15,Moderate,Daily,Shopping,Satisfied
+R176,2026-02-06,24,Male,Jeepney,8.5,18:25,52,High,Daily,Shopping,Dissatisfied
+R177,2026-01-15,51,Female,UV Express,10.9,13:45,52,High,1-2 times a week,Leisure,Dissatisfied
+R178,2026-05-12,42,Male,Motorcycle,10.0,19:05,23,Low,Occasionally,School,Neutral
+R179,2026-02-13,20,Male,UV Express,2.9,18:45,11,Moderate,Occasionally,School,Satisfied
+R180,2026-03-27,38,Male,Private Car,5.8,06:20,21,Moderate,3-5 times a week,School,Neutral
+R181,2026-06-09,17,Male,Walking,3.4,07:20,43,Low,Daily,Work,Satisfied
+R182,2026-02-20,38,Male,Tricycle,6.0,12:15,31,Moderate,Daily,Work,Satisfied
+R183,2026-03-10,38,Male,Tricycle,4.6,17:00,18,Low,Daily,Work,Satisfied
+R184,2026-04-19,52,Male,Bus,6.0,05:55,36,High,Occasionally,Leisure,Dissatisfied
+R185,2026-03-02,52,Male,Tricycle,11.6,07:45,55,Moderate,Daily,Work,Satisfied
+R186,2026-06-20,23,Female,Motorcycle,6.3,06:40,18,Low,Occasionally,School,Satisfied
+R187,2026-03-22,65,Female,Jeepney,8.3,18:05,40,Moderate,Occasionally,Work,Satisfied
+R188,2026-05-03,51,Male,Jeepney,10.8,07:40,55,Moderate,Daily,Work,Neutral
+R189,2026-02-08,39,Male,Tricycle,6.0,13:15,18,Low,Daily,Personal Errand,Satisfied
+R190,2026-04-20,49,Female,Jeepney,3.5,19:10,30,High,Daily,Shopping,Neutral
+R191,2026-06-16,57,Female,Jeepney,4.8,05:00,14,Low,Daily,Work,Satisfied
+R192,2026-03-03,33,Male,Jeepney,2.6,08:55,9,Low,1-2 times a week,School,Dissatisfied
+R193,2026-05-20,33,Female,Motorcycle,6.4,08:00,29,High,1-2 times a week,Work,Dissatisfied
+R194,2026-05-19,54,Male,UV Express,1.1,21:25,6,Low,1-2 times a week,School,Satisfied
+R195,2026-01-08,41,Female,Jeepney,10.2,09:50,49,Moderate,Occasionally,School,Satisfied
+R196,2026-03-17,59,Female,Tricycle,5.9,11:00,28,Low,3-5 times a week,School,Satisfied
+R197,2026-06-24,40,Female,Jeepney,2.9,17:25,20,Moderate,1-2 times a week,Leisure,Satisfied
+R198,2026-05-10,31,Male,UV Express,3.2,13:20,18,High,3-5 times a week,School,Satisfied
+R199,2026-02-03,19,Female,Jeepney,7.1,18:15,34,Moderate,Daily,Personal Errand,Satisfied
+R200,2026-06-16,52,Female,Tricycle,12.4,10:45,69,High,Daily,Personal Errand,Neutral
